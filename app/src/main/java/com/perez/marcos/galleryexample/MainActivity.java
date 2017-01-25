@@ -100,7 +100,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-
             }
         }else{
             Log.v("Result","Something happened");
